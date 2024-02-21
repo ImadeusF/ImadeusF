@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning at BeCode Promotion Hamilton9
+
 <!--
 **ImadeusF/ImadeusF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
