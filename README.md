@@ -5,21 +5,21 @@ My name is Damien Fournier, and I am undergoing a career change at the age of 43
 
 ### Frontend  
 <div style="display: inline-block; margin-right: 3px;">
-  <img alt="HTML5 Badge" src="https://img.shields.io/badge/frontend%20-%20HTML5%20-%20orange" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/frontend%20-%20html5%20-%20orange?style=for-the-badge">
 </div>
 <div style="display: inline-block; margin-right: 3px;">
-  <img alt="CSS Badge" src="https://img.shields.io/badge/frontend%20-%20CSS%20-%20lightblue" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/frontend%20-%20css%20-%20lightblue?style=for-the-badge">
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/frontend%20-%20sass%20-%20pink?style=for-the-badge">
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/frontend%20-%20javascript%20-%20yellow?style=for-the-badge&color=yellow">
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/frontend%20-%20react%20-%20%233ea9c0?style=for-the-badge">
 </div>
 
-<div style="display: inline-block; margin-right: 10px;">
-  <img alt="Sass Badge" src="https://img.shields.io/badge/frontend%20-%20sass%20-%20pink" />
-</div>
-<div style="display: inline-block; margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48px" height="48px"/>
-</div>
-<div style="display: inline-block; margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48px" height="48px"/>
-</div>
 <div style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48px" height="48px"/>
 </div>
