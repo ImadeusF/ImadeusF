@@ -5,9 +5,10 @@ My name is Damien Fournier, and I am undergoing a career change at the age of 43
 
 ### TECHNOLOGIES / SKILLS
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="vertical-align: top;">
+    <!-- Frontend Column -->
+    <td style="vertical-align: top; padding: 0;">
       <h3>Frontend</h3>
       <img alt="HTML5 Badge" src="https://img.shields.io/badge/frontend%20-%20html5%20-%20orange?style=for-the-badge" /><br>
       <img alt="CSS Badge" src="https://img.shields.io/badge/frontend%20-%20css%20-%20lightblue?style=for-the-badge" /><br>
@@ -16,17 +17,23 @@ My name is Damien Fournier, and I am undergoing a career change at the age of 43
       <img alt="React Badge" src="https://img.shields.io/badge/frontend%20-%20react%20-%20%233ea9c0?style=for-the-badge" /><br>
       <img alt="TypeScript Badge" src="https://img.shields.io/badge/frontend%20-%20typescript%20-%20%23295cde?style=for-the-badge" />
     </td>
-    <td style="vertical-align: top;">
+
+    <!-- Backend Column -->
+    <td style="vertical-align: top; padding: 0;">
       <h3>Backend</h3>
       <img alt="PHP Badge" src="https://img.shields.io/badge/backend%20-%20php%20-%20%23998fc3?style=for-the-badge" /><br>
       <img alt="Laravel Badge" src="https://img.shields.io/badge/backend%20-%20laravel%20-%20%23e95420?style=for-the-badge" />
     </td>
-    <td style="vertical-align: top;">
+
+    <!-- Database Column -->
+    <td style="vertical-align: top; padding: 0;">
       <h3>Database</h3>
       <img alt="MySQL Badge" src="https://img.shields.io/badge/database%20-%20mysql%20-%20%234898dc?style=for-the-badge" /><br>
       <img alt="MariaDB Badge" src="https://img.shields.io/badge/database%20-%20mariadb%20-%20%23305778?style=for-the-badge" />
     </td>
-    <td style="vertical-align: top;">
+
+    <!-- Program Column -->
+    <td style="vertical-align: top; padding: 0;">
       <h3>Program</h3>
       <img alt="VSCode Badge" src="https://img.shields.io/badge/program%20-%20vscode%20-%20%23397ab2?style=for-the-badge" /><br>
       <img alt="Git Badge" src="https://img.shields.io/badge/program%20-%20git%20-%20%23ffb321?style=for-the-badge" /><br>
@@ -34,6 +41,7 @@ My name is Damien Fournier, and I am undergoing a career change at the age of 43
     </td>
   </tr>
 </table>
+
   
 ---
 
