@@ -4,9 +4,12 @@ My name is Damien Fournier, and I am undergoing a career change at the age of 43
 ---
 
 ### Frontend  
+<div style="display: inline-block; margin-right: 3px;">
 ![Static Badge](https://img.shields.io/badge/frontend%20-%20HTML5%20-%20orange)
+</div>
+<div style="display: inline-block; margin-right: 3px;">
 ![Static Badge](https://img.shields.io/badge/frontend%20-%20CSS%20-%20lightblue)
-
+</div>
 <div style="display: inline-block; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="48px" height="48px"/>
 </div>
