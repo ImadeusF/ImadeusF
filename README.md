@@ -20,9 +20,6 @@ My name is Damien Fournier, and I am undergoing a career change at the age of 43
   <img alt="Static Badge" src="https://img.shields.io/badge/frontend%20-%20react%20-%20%233ea9c0?style=for-the-badge">
 </div>
 <div style="display: inline-block; margin-right: 5px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/frontend%20-%20react%20-%20%233ea9c0?style=for-the-badge">
-</div>
-<div style="display: inline-block; margin-right: 5px;">
   <img alt="Static Badge" src="https://img.shields.io/badge/frontend%20-%20typescript%20-%20%23295cde?style=for-the-badge">
 </div>
 
