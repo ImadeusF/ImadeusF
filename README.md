@@ -1,4 +1,4 @@
-### 😃 Full Stack Developer (seeking an internship)
+### 😃 Full Stack Developer
 My name is Damien Fournier, and I am undergoing a career change at the age of 43, because it's never too late to change horizons and set new goals. Passionate about computers since my teenage years, I decided to leave my previous job and embark on a journey into web development. I joined the BeCode program (02/2024 - 09/2024) to learn through hands-on experience in an active learning environment that combines individual work with group projects.
 
 ---
